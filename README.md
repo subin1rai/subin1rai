@@ -2,11 +2,13 @@
 <h3 align="center">A passionate Fullstack developer!</h3>
 
 
+
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=subin1rai&theme=dark&margin-w=15&margin-h=15" alt="subin1rai" />
   </a> 
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
