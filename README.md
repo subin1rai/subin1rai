@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subin Rai</h1>
 <h3 align="center">A passionate Fullstack developer!</h3>
 
-
-
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=subin1rai&theme=dark&margin-w=15&margin-h=15" alt="subin1rai" />
@@ -11,7 +9,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center "> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -62,7 +60,7 @@
   </a> 
 </p>
 
-<p>
+<p >
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subin1rai&show_icons=true&locale=en&layout=compact&theme=dark&hide=Makefile" alt="subin1rai" />
 </p>
 
