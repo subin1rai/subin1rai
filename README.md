@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subin Rai</h1>
+<h1 align="center">Hi, I'm Subin Rai</h1>
 <h3 align="center">A passionate Fullstack developer!</h3>
 
 <p align="left"> 
