@@ -68,6 +68,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=subin1rai&show_icons=true&locale=en&theme=dark&title_color=ffa500" alt="subin1rai" />
 </p>
 
+[![Subin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subinrai&bg_color=0D1117&color=f97316&line=FB8C00&point=facc15&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subin1rai&theme=dark" alt="subin1rai" />
 </p>
