@@ -60,7 +60,7 @@
   </a> 
 </p>
 
-<p >
+<p  >
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subin1rai&show_icons=true&locale=en&layout=compact&theme=dark&hide=Makefile" alt="subin1rai" />
 </p>
@@ -70,7 +70,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subin1rai&bg_color=0D1117&color=f97316&line=FB8C00&point=facc15&area=true&hide_border=true" alt="Subin's GitHub Activity Graph" />
 </p>
-
+<p align='left'>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subin1rai&theme=dark" alt="subin1rai" />
 </p>
 <img align="center" alt="code" width="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
