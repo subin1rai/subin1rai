@@ -6,7 +6,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=subin1rai&theme=dark&margin-w=15&margin-h=15" alt="subin1rai" />
   </a> 
 </p>
-
+<!-- hi -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subinrai&label=Profile%20views&color=0e75b6&style=flat" alt="subinrai" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center "> 
